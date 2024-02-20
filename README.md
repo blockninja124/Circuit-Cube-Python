@@ -1,5 +1,5 @@
 # Circuit-Cube-Python
-Python code for connecting via BLE to a LEGO Circuit Cube
+(Somewhat) Beginner friendly Python code for controlling a LEGO circuit cube via Bluetooth (LE)
 
 # Usage:
 ## Dependencies
