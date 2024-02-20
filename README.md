@@ -1,5 +1,5 @@
 # Circuit-Cube-Python
-(Somewhat) Beginner friendly Python code for controlling a LEGO circuit cube via Bluetooth (LE)
+(Somewhat) beginner friendly Python code for controlling a LEGO circuit cube via Bluetooth (Low Energy)
 
 # Usage:
 ## Dependencies
